@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-Acadia
-=======
-Simon
->>>>>>> cded6b02391e20970d37e1f0364aaed19694f72f
