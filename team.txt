@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Acadia
+=======
+Simon
+>>>>>>> 38fcb51b40e01443f5dd7cabb8fa226701d026ad
