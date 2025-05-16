@@ -1,16 +1,1 @@
-<<<<<<< HEAD
-Rami
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-Acadia
-=======
-Simon
->>>>>>> 38fcb51b40e01443f5dd7cabb8fa226701d026ad
-=======
-Simon
-=======
-Sajida
->>>>>>> 4ac7756 (Resolved Conflict)
->>>>>>> 1461859ba736c11f92ce1bf38e81efb790e53973
->>>>>>> main
+Paul
